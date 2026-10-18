@@ -42,7 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
-* **[OpenSparta](https://opensparta.com/en)**: Telegram account and proxy management with audience discovery and engagement workflows from one workspace.
+* **[OpenSparta](https://opensparta.com/en)**: Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
 
 ### Developer & API Tools
 
